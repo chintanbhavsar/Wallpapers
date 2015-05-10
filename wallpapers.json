@@ -2,30 +2,75 @@
 "wallpapers": 
 	[ 
 		{
-			"author": "Juan M. Saracho",
-			"url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/1MaterialCircles/CirclesOrange.png",
-			"name": "Orange Circles"
+			"author": "Chintan Bhavsar",
+			"url": "https://www.dropbox.com/s/kdazu8ynwtwgbpz/wall_1.png",
+			"name": "Grained lines"
 		},
 		{
-			"author": "Juan M. Saracho",
-			"url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/1MaterialCircles/CirclesPurple.png",
-			"name": "Purple Circles"
+			"author": "Chintan Bhavsar",
+			"url": "https://www.dropbox.com/s/hkumfuhkngonei9/wall_2.png",
+			"name": "Orange perception"
 		},
 		{
-			"author": "Juan M. Saracho",
-			"url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/1MaterialCircles/CirclesRed.png",
-			"name": "Red Circles"
+			"author": "Chintan Bhavsar",
+			"url": "https://www.dropbox.com/s/4236r445xdn8pqh/wall_4.png",
+			"name": "Yellow perception"
 		},
 		{
-			"author": "Jahir Fiquitiva",
-			"url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/2MaterialLines/LinesBlue.png",
-			"name": "Blue Lines"
+			"author": "Chintan Bhavsar",
+			"url": "https://www.dropbox.com/s/zy261rxfkqkmhyb/wall_5.png",
+			"name": "Dark star"
 		},
 		{
-			"author": "Jahir Fiquitiva",
-			"url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/2MaterialLines/LinesGreen.png",
-			"name": "Green Lines"
-		}
-		 
+			"author": "Chintan Bhavsar",
+			"url": "https://www.dropbox.com/s/2xn2d9h5glrq8cb/wall_9.png",
+			"name": "Multicoloured flower"
+		},
+		{
+			"author": "Chintan Bhavsar",
+			"url": "https://www.dropbox.com/s/3rv5fandsf5q446/wall_10.png",
+			"name": "Blurred flower"
+		},
+		{
+			"author": "Chintan Bhavsar",
+			"url": "https://www.dropbox.com/s/10e3704c5j0l20e/wall_11.png",
+			"name": "Flower"
+		},
+		{
+			"author": "Chintan Bhavsar",
+			"url": "https://www.dropbox.com/s/cy68rm5ug0jbhwe/wall_12.png",
+			"name": "Random Lines 1"
+		},
+		{
+			"author": "Chintan Bhavsar",
+			"url": "https://www.dropbox.com/s/0w6o023s9khqu7x/wall_13.png",
+			"name": "Random Lines 1"
+		},
+		{
+			"author": "Chintan Bhavsar",
+			"url": "https://www.dropbox.com/s/3x8bezsxszu10dg/wall_14.png",
+			"name": "Curved Lines"
+		},
+		{
+			"author": "Chintan Bhavsar",
+			"url": "https://www.dropbox.com/s/3kdiu01bxal2uyd/wall_15.png",
+			"name": "Fast-lane arrows"
+		},
+		{
+			"author": "Chintan Bhavsar",
+			"url": "https://www.dropbox.com/s/u9uq5ibpgoo0x9p/wall_16.png",
+			"name": "Multi-colours perception"
+		},
+		{
+			"author": "Chintan Bhavsar",
+			"url": "https://www.dropbox.com/s/spqdv6z5h9xbu3n/wall_17.png",
+			"name": "Polygons 1"
+		},
+		{
+			"author": "Chintan Bhavsar",
+			"url": "https://www.dropbox.com/s/s04u1eyb45e1enp/wall_19.png",
+			"name": "Polygons 2"
+		},
+			 
 	]
 }
